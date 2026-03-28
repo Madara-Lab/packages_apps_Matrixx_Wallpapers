@@ -8,154 +8,37 @@
 
 <resources>
 
-    <category id="Made by Vaisakh" title="@string/category_vaisakh_walls" featured="Capsules of Light">
+    <category id="Made by Alister" title="@string/category_alister_walls" featured="Matrixx Wallpapers">
         <static-wallpaper
-            id="Capsules of Light"
-            src="@drawable/Capsules-of-Light"
-            title="@string/wallpaper_capsules_of_light"
-            subtitle1="@string/author_vaisakh" />
+            id="Matrixx_Black"
+            src="@drawable/Matrixx_Black"
+            title="@string/wallpaper_matrixx_black"
+            subtitle1="@string/author_alister" />
 
         <static-wallpaper
-            id="Cubed 1"
-            src="@drawable/Cubed-1"
-            title="@string/wallpaper_cubed_1"
-            subtitle1="@string/author_vaisakh" />
+            id="Matrixx_Blue"
+            src="@drawable/Matrixx_Blue"
+            title="@string/wallpaper_matrixx_blue"
+            subtitle1="@string/author_alister" />
 
         <static-wallpaper
-            id="Cubed 2"
-            src="@drawable/Cubed-2"
-            title="@string/wallpaper_cubed_2"
-            subtitle1="@string/author_vaisakh" />
+            id="Matrixx_Green"
+            src="@drawable/Matrixx_Green"
+            title="@string/wallpaper_matrixx_green"
+            subtitle1="@string/author_alister" />
 
         <static-wallpaper
-            id="Refractive Games 1"
-            src="@drawable/Refractive-Games-1"
-            title="@string/wallpaper_refractive_games_1"
-            subtitle1="@string/author_vaisakh" />
+            id="Matrixx_Purple"
+            src="@drawable/Matrixx_Purple"
+            title="@string/wallpaper_matrixx_purple"
+            subtitle1="@string/author_alister" />
 
         <static-wallpaper
-            id="Refractive Games 2"
-            src="@drawable/Refractive-Games-2"
-            title="@string/wallpaper_refractive_games_2"
-            subtitle1="@string/author_vaisakh" />
+            id="Matrixx_Red"
+            src="@drawable/Matrixx_Red"
+            title="@string/wallpaper_matrixx_red"
+            subtitle1="@string/author_alister" />
 
-        <static-wallpaper
-            id="Refractive Games 3"
-            src="@drawable/Refractive-Games-3"
-            title="@string/wallpaper_refractive_games_3"
-            subtitle1="@string/author_vaisakh" />
-
-        <static-wallpaper
-            id="Refractive Games 4"
-            src="@drawable/Refractive-Games-4"
-            title="@string/wallpaper_refractive_games_4"
-            subtitle1="@string/author_vaisakh" />
-
-        <static-wallpaper
-            id="Flowing Darkness"
-            src="@drawable/Flowing-Darkness"
-            title="@string/wallpaper_flowing_darkness"
-            subtitle1="@string/author_vaisakh" />
-
-        <static-wallpaper
-            id="Flowing Water"
-            src="@drawable/Flowing-Water"
-            title="@string/wallpaper_flowing_water"
-            subtitle1="@string/author_vaisakh" />
-
-        <static-wallpaper
-            id="Grass of Glass"
-            src="@drawable/Grass-of-Glass"
-            title="@string/wallpaper_grass_of_glass"
-            subtitle1="@string/author_vaisakh" />
-
-        <static-wallpaper
-            id="Greyed Blues"
-            src="@drawable/Greyed-Blues"
-            title="@string/wallpaper_greyed_blues"
-            subtitle1="@string/author_vaisakh" />
-
-        <static-wallpaper
-            id="Lollipop"
-            src="@drawable/Lollipop"
-            title="@string/wallpaper_lollipop"
-            subtitle1="@string/author_vaisakh" />
-
-        <static-wallpaper
-            id="Tofu Cyan"
-            src="@drawable/Tofu-Cyan"
-            title="@string/wallpaper_tofu_cyan"
-            subtitle1="@string/author_vaisakh" />
 </category>
-
-    <category id="NASA" title="@string/category_space" featured="1">
-        <static-wallpaper
-            id="1"
-            src="@drawable/smac"
-            title="@string/wallpaper_smac"
-            subtitle1="@string/desc_smac" />
-
-        <static-wallpaper
-            id="2"
-            src="@drawable/carina"
-            title="@string/wallpaper_carina"
-            subtitle1="@string/desc_carina" />
-
-        <static-wallpaper
-            id="3"
-            src="@drawable/south"
-            title="@string/wallpaper_south"
-            subtitle1="@string/desc_south" />
-
-        <static-wallpaper
-            id="4"
-            src="@drawable/stephanq"
-            title="@string/wallpaper_stephan"
-            subtitle1="@string/desc_stephan" />
-    </category>
-
-    <category id="Gradient Collection" title="@string/category_gradient_collection" featured="Waves">
-        <static-wallpaper
-            id="Waves"
-            src="@drawable/Waves"
-            title="@string/wallpaper_waves"
-            subtitle1="@string/author_sourajit" />
-
-        <static-wallpaper
-            id="Dusk"
-            src="@drawable/Dusk"
-            title="@string/wallpaper_dusk"
-            subtitle1="@string/author_sourajit" />
-
-        <static-wallpaper
-            id="Blurple"
-            src="@drawable/Blurple"
-            title="@string/wallpaper_blurple"
-            subtitle1="@string/author_sourajit" />
-
-        <static-wallpaper
-            id="Pastel Invasion"
-            src="@drawable/Pastel_Invasion"
-            title="@string/wallpaper_pastel_invasion"
-            subtitle1="@string/author_sourajit" />
-
-        <static-wallpaper
-            id="Descending Blue"
-            src="@drawable/Descending_Blue"
-            title="@string/wallpaper_descending_blue"
-            subtitle1="@string/author_sourajit" />
-
-        <static-wallpaper
-            id="Sunrise_Mauve"
-            src="@drawable/Sunrise_Mauve"
-            title="@string/wallpaper_sunrise_mauve"
-            subtitle1="@string/author_fakurian" />
-
-        <static-wallpaper
-            id="Organic_Purple"
-            src="@drawable/Organic_Purple"
-            title="@string/wallpaper_organic_purple"
-            subtitle1="@string/author_vaisakh" />
-    </category>
 
 </resources>
