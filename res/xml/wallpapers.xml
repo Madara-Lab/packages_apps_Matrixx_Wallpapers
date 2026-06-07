@@ -8,7 +8,7 @@
 
 <resources>
 
-    <category id="Made by Alister" title="@string/category_alister_walls" featured="Matrixx Wallpapers">
+    <category id="Made by Matrixx" title="@string/wallpaper_matrixx" featured="Matrixx Wallpapers">
         <static-wallpaper
             id="Matrixx_Black"
             src="@drawable/Matrixx_Black"
@@ -39,6 +39,77 @@
             title="@string/wallpaper_matrixx_red"
             subtitle1="@string/author_alister" />
 
+        <static-wallpaper
+            id="Matrixx_Eclipse_Obsidian"
+            src="@drawable/Matrixx_Eclipse_Obsidian"
+            title="@string/wallpaper_matrixx_eclipse_obsidian"
+            subtitle1="@string/author_shubham" />
+
+        <static-wallpaper
+            id="Matrixx_Eclipse_Violet"
+            src="@drawable/Matrixx_Eclipse_Violet"
+            title="@string/wallpaper_matrixx_eclipse_violet"
+            subtitle1="@string/author_shubham" />
+
+        <static-wallpaper
+            id="Matrixx_Eclipse_Azure"
+            src="@drawable/Matrixx_Eclipse_Azure"
+            title="@string/wallpaper_matrixx_eclipse_azure"
+            subtitle1="@string/author_shubham" />
+
+        <static-wallpaper
+            id="Matrixx_Eclipse_Emerald"
+            src="@drawable/Matrixx_Eclipse_Emerald"
+            title="@string/wallpaper_matrixx_eclipse_emerald"
+            subtitle1="@string/author_shubham" />
+
+        <static-wallpaper
+            id="Matrixx_Eclipse_Amber"
+            src="@drawable/Matrixx_Eclipse_Amber"
+            title="@string/wallpaper_matrixx_eclipse_amber"
+            subtitle1="@string/author_shubham" />
+
+        <static-wallpaper
+            id="Matrixx_Eclipse_Crimson"
+            src="@drawable/Matrixx_Eclipse_Crimson"
+            title="@string/wallpaper_matrixx_eclipse_crimson"
+            subtitle1="@string/author_shubham" />
+
+        <static-wallpaper
+            id="Matrixx_Horizon_Obsidian"
+            src="@drawable/Matrixx_Horizon_Obsidian"
+            title="@string/wallpaper_matrixx_horizon_obsidian"
+            subtitle1="@string/author_shubham" />
+
+        <static-wallpaper
+            id="Matrixx_Horizon_Violet"
+            src="@drawable/Matrixx_Horizon_Violet"
+            title="@string/wallpaper_matrixx_horizon_violet"
+            subtitle1="@string/author_shubham" />
+
+        <static-wallpaper
+            id="Matrixx_Horizon_Azure"
+            src="@drawable/Matrixx_Horizon_Azure"
+            title="@string/wallpaper_matrixx_horizon_azure"
+            subtitle1="@string/author_shubham" />
+
+        <static-wallpaper
+            id="Matrixx_Horizon_Emerald"
+            src="@drawable/Matrixx_Horizon_Emerald"
+            title="@string/wallpaper_matrixx_horizon_emerald"
+            subtitle1="@string/author_shubham" />
+
+        <static-wallpaper
+            id="Matrixx_Horizon_Amber"
+            src="@drawable/Matrixx_Horizon_Amber"
+            title="@string/wallpaper_matrixx_horizon_amber"
+            subtitle1="@string/author_shubham" />
+
+        <static-wallpaper
+            id="Matrixx_Horizon_Crimson"
+            src="@drawable/Matrixx_Horizon_Crimson"
+            title="@string/wallpaper_matrixx_horizon_crimson"
+            subtitle1="@string/author_shubham" />
 </category>
 
 </resources>
