@@ -13,6 +13,8 @@
     <string name="wallpaper_matrixx">Matrixx Wallpapers</string>
     <string name="author_alister">Alister Grey</string>
     <string name="author_shubham">Shubham</string>
+    <string name="author_tenzo">Tenzo273</string>
+
     <string name="wallpaper_matrixx_black">Matrixx Black</string>
     <string name="wallpaper_matrixx_blue">Matrixx Blue</string>
     <string name="wallpaper_matrixx_green">Matrixx Green</string>
@@ -30,5 +32,23 @@
     <string name="wallpaper_matrixx_horizon_violet">Matrixx Horizon Violet</string>
     <string name="wallpaper_matrixx_horizon_amber">Matrixx Horizon Amber</string>
     <string name="wallpaper_matrixx_horizon_obsidian">Matrixx Horizon Obsidian</string>
+
+    <string name="wallpaper_matrixx_centered_space">Matrixx Centered Space</string>
+    <string name="wallpaper_matrixx_clean">Matrixx Clean</string>
+    <string name="wallpaper_matrixx_cyberpunk">Matrixx Cyberpunk</string>
+    <string name="wallpaper_matrixx_deep_space_matrix">Matrixx Deep Space Matrix</string>
+    <string name="wallpaper_matrixx_deep_space_minimal">Matrixx Deep Space Minimal</string>
+    <string name="wallpaper_matrixx_default_custom">Matrixx Default Custom</string>
+    <string name="wallpaper_matrixx_expansion_matrix">Matrixx Expansion Matrix</string>
+    <string name="wallpaper_matrixx_minimal_3d_code">Matrixx Minimal 3D Code</string>
+    <string name="wallpaper_matrixx_minimal_abstract">Matrixx Minimal Abstract</string>
+    <string name="wallpaper_matrixx_minimal_nebula">Matrixx Minimal Nebula</string>
+    <string name="wallpaper_matrixx_minimal_neutrino">Matrixx Minimal Neutrino</string>
+    <string name="wallpaper_matrixx_minimal_void">Matrixx Minimal Void</string>
+    <string name="wallpaper_matrixx_orbital_station">Matrixx Orbital Station</string>
+    <string name="wallpaper_matrixx_portal">Matrixx Portal</string>
+    <string name="wallpaper_matrixx_space">Matrixx Space</string>
+    <string name="wallpaper_matrixx_stargate_final">Matrixx Stargate Final</string>
+    <string name="wallpaper_matrixx_stargate">Matrixx Stargate</string>
 
 </resources>
