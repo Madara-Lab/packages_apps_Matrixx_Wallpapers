@@ -8,7 +8,7 @@
 
 <resources>
 
-    <category id="Made by Matrixx" title="@string/wallpaper_matrixx" featured="Matrixx Wallpapers">
+    <category id="Made by Matrixx" title="@string/wallpaper_matrixx" featured="Matrixx_Default">
         <static-wallpaper
             id="Matrixx_Black"
             src="@drawable/Matrixx_Black"
@@ -38,42 +38,6 @@
             src="@drawable/Matrixx_Red"
             title="@string/wallpaper_matrixx_red"
             subtitle1="@string/author_alister" />
-
-        <static-wallpaper
-            id="Matrixx_Eclipse_Obsidian"
-            src="@drawable/Matrixx_Eclipse_Obsidian"
-            title="@string/wallpaper_matrixx_eclipse_obsidian"
-            subtitle1="@string/author_shubham" />
-
-        <static-wallpaper
-            id="Matrixx_Eclipse_Violet"
-            src="@drawable/Matrixx_Eclipse_Violet"
-            title="@string/wallpaper_matrixx_eclipse_violet"
-            subtitle1="@string/author_shubham" />
-
-        <static-wallpaper
-            id="Matrixx_Eclipse_Azure"
-            src="@drawable/Matrixx_Eclipse_Azure"
-            title="@string/wallpaper_matrixx_eclipse_azure"
-            subtitle1="@string/author_shubham" />
-
-        <static-wallpaper
-            id="Matrixx_Eclipse_Emerald"
-            src="@drawable/Matrixx_Eclipse_Emerald"
-            title="@string/wallpaper_matrixx_eclipse_emerald"
-            subtitle1="@string/author_shubham" />
-
-        <static-wallpaper
-            id="Matrixx_Eclipse_Amber"
-            src="@drawable/Matrixx_Eclipse_Amber"
-            title="@string/wallpaper_matrixx_eclipse_amber"
-            subtitle1="@string/author_shubham" />
-
-        <static-wallpaper
-            id="Matrixx_Eclipse_Crimson"
-            src="@drawable/Matrixx_Eclipse_Crimson"
-            title="@string/wallpaper_matrixx_eclipse_crimson"
-            subtitle1="@string/author_shubham" />
 
         <static-wallpaper
             id="Matrixx_Horizon_Obsidian"
@@ -110,6 +74,67 @@
             src="@drawable/Matrixx_Horizon_Crimson"
             title="@string/wallpaper_matrixx_horizon_crimson"
             subtitle1="@string/author_shubham" />
-</category>
+
+        <!-- Tenzo273's Custom Wallpapers -->
+        <static-wallpaper
+            id="Matrixx_Default"
+            src="@drawable/Matrixx_Default"
+            title="@string/wallpaper_matrixx_default_custom"
+            subtitle1="@string/author_tenzo" />
+
+        <static-wallpaper
+            id="Matrixx_Centered_Space"
+            src="@drawable/Matrixx_Centered_Space"
+            title="@string/wallpaper_matrixx_centered_space"
+            subtitle1="@string/author_tenzo" />
+
+        <static-wallpaper
+            id="Matrixx_Clean"
+            src="@drawable/Matrixx_Clean"
+            title="@string/wallpaper_matrixx_clean"
+            subtitle1="@string/author_tenzo" />
+
+        <static-wallpaper
+            id="Matrixx_Minimal_Abstract"
+            src="@drawable/Matrixx_Minimal_Abstract"
+            title="@string/wallpaper_matrixx_minimal_abstract"
+            subtitle1="@string/author_tenzo" />
+
+        <static-wallpaper
+            id="Matrixx_Minimal_Nebula"
+            src="@drawable/Matrixx_Minimal_Nebula"
+            title="@string/wallpaper_matrixx_minimal_nebula"
+            subtitle1="@string/author_tenzo" />
+
+        <static-wallpaper
+            id="Matrixx_Minimal_Neutrino"
+            src="@drawable/Matrixx_Minimal_Neutrino"
+            title="@string/wallpaper_matrixx_minimal_neutrino"
+            subtitle1="@string/author_tenzo" />
+
+        <static-wallpaper
+            id="Matrixx_Minimal_Void"
+            src="@drawable/Matrixx_Minimal_Void"
+            title="@string/wallpaper_matrixx_minimal_void"
+            subtitle1="@string/author_tenzo" />
+
+        <static-wallpaper
+            id="Matrixx_Orbital_Station"
+            src="@drawable/Matrixx_Orbital_Station"
+            title="@string/wallpaper_matrixx_orbital_station"
+            subtitle1="@string/author_tenzo" />
+
+        <static-wallpaper
+            id="Matrixx_Space"
+            src="@drawable/Matrixx_Space"
+            title="@string/wallpaper_matrixx_space"
+            subtitle1="@string/author_tenzo" />
+
+        <static-wallpaper
+            id="Matrixx_Stargate_Final"
+            src="@drawable/Matrixx_Stargate_Final"
+            title="@string/wallpaper_matrixx_stargate_final"
+            subtitle1="@string/author_tenzo" />
+    </category>
 
 </resources>

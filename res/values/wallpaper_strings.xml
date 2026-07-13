@@ -13,22 +13,29 @@
     <string name="wallpaper_matrixx">Matrixx Wallpapers</string>
     <string name="author_alister">Alister Grey</string>
     <string name="author_shubham">Shubham</string>
+    <string name="author_tenzo">Tenzo273</string>
+
     <string name="wallpaper_matrixx_black">Matrixx Black</string>
     <string name="wallpaper_matrixx_blue">Matrixx Blue</string>
     <string name="wallpaper_matrixx_green">Matrixx Green</string>
     <string name="wallpaper_matrixx_purple">Matrixx Purple</string>
     <string name="wallpaper_matrixx_red">Matrixx Red</string>
-    <string name="wallpaper_matrixx_eclipse_obsidian">Matrixx Eclipse Obsidian</string>
-    <string name="wallpaper_matrixx_eclipse_violet">Matrixx Eclipse Violet</string>
-    <string name="wallpaper_matrixx_eclipse_azure">Matrixx Eclipse Azure</string>
-    <string name="wallpaper_matrixx_eclipse_emerald">Matrixx Eclipse Emerald</string>
-    <string name="wallpaper_matrixx_eclipse_amber">Matrixx Eclipse Amber</string>
-    <string name="wallpaper_matrixx_eclipse_crimson">Matrixx Eclipse Crimson</string>
     <string name="wallpaper_matrixx_horizon_azure">Matrixx Horizon Azure</string>
     <string name="wallpaper_matrixx_horizon_crimson">Matrixx Horizon Crimson</string>
     <string name="wallpaper_matrixx_horizon_emerald">Matrixx Horizon Emerald</string>
     <string name="wallpaper_matrixx_horizon_violet">Matrixx Horizon Violet</string>
     <string name="wallpaper_matrixx_horizon_amber">Matrixx Horizon Amber</string>
     <string name="wallpaper_matrixx_horizon_obsidian">Matrixx Horizon Obsidian</string>
+
+    <string name="wallpaper_matrixx_centered_space">Matrixx Centered Space</string>
+    <string name="wallpaper_matrixx_clean">Matrixx Clean</string>
+    <string name="wallpaper_matrixx_default_custom">Matrixx Default Custom</string>
+    <string name="wallpaper_matrixx_minimal_abstract">Matrixx Minimal Abstract</string>
+    <string name="wallpaper_matrixx_minimal_nebula">Matrixx Minimal Nebula</string>
+    <string name="wallpaper_matrixx_minimal_neutrino">Matrixx Minimal Neutrino</string>
+    <string name="wallpaper_matrixx_minimal_void">Matrixx Minimal Void</string>
+    <string name="wallpaper_matrixx_orbital_station">Matrixx Orbital Station</string>
+    <string name="wallpaper_matrixx_space">Matrixx Space</string>
+    <string name="wallpaper_matrixx_stargate_final">Matrixx Stargate Final</string>
 
 </resources>
